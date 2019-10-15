@@ -1,0 +1,7 @@
+Tree is something like hirarachical data structuere
+Binary tree will have at most 2 children
+Traversal
+   Pre Order
+   Post Order --> Used for calculating Mathematical expression
+   Inorder
+Solve problems using Recursion or Iterative method
